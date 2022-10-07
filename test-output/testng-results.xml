@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="8" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T20:17:52 WIB" name="All Test Suite" finished-at="2022-10-07T20:17:52 WIB" duration-ms="109">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T20:17:52 WIB" name="D:/SQA/Java/1/JCTestNG/src/test/java/com/juaracoding/testng/featuretwo/ProcedureExecution.java" finished-at="2022-10-07T20:17:52 WIB" duration-ms="34">
+      <class name="com.juaracoding.testng.featuretwo.ProcedureExecution">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="beforeClass" finished-at="2022-10-07T20:17:52 WIB" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethode()[pri:0, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="beforeMethode" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method signature="testOne()[pri:1, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="testOne" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="afterMethod" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethode()[pri:0, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="beforeMethode" finished-at="2022-10-07T20:17:52 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method signature="testThree()[pri:3, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="testThree" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="afterMethod" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.juaracoding.testng.featuretwo.ProcedureExecution@78a2da20]" started-at="2022-10-07T20:17:52 WIB" name="afterClass" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.juaracoding.testng.featuretwo.ProcedureExecution -->
+    </test> <!-- D:/SQA/Java/1/JCTestNG/src/test/java/com/juaracoding/testng/featuretwo/ProcedureExecution.java -->
+    <test started-at="2022-10-07T20:17:52 WIB" name="D:/SQA/Java/1/JCTestNG/src/test/java/com/juaracoding/testng/TestCalculator.java" finished-at="2022-10-07T20:17:52 WIB" duration-ms="7">
+      <class name="com.juaracoding.testng.TestCalculator">
+        <test-method signature="testAdd(int,int)[pri:0, instance:com.juaracoding.testng.TestCalculator@41ee392b]" started-at="2022-10-07T20:17:52 WIB" name="testAdd" finished-at="2022-10-07T20:17:52 WIB" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testSubstract(int,int)[pri:0, instance:com.juaracoding.testng.TestCalculator@41ee392b]" started-at="2022-10-07T20:17:52 WIB" name="testSubstract" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubstract -->
+        <test-method signature="testAssertTrueDua(java.lang.String)[pri:0, instance:com.juaracoding.testng.TestCalculator@41ee392b]" started-at="2022-10-07T20:17:52 WIB" name="testAssertTrueDua" finished-at="2022-10-07T20:17:52 WIB" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Juara Coding]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAssertTrueDua -->
+      </class> <!-- com.juaracoding.testng.TestCalculator -->
+    </test> <!-- D:/SQA/Java/1/JCTestNG/src/test/java/com/juaracoding/testng/TestCalculator.java -->
+    <test started-at="2022-10-07T20:17:52 WIB" name="D:/SQA/Java/1/JCTestNG/src/test/java/com/juaracoding/testng/TestCalculatorTwo.java" finished-at="2022-10-07T20:17:52 WIB" duration-ms="1">
+      <class name="com.juaracoding.testng.TestCalculatorTwo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.testng.TestCalculatorTwo@275710fc]" started-at="2022-10-07T20:17:52 WIB" name="setUp" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.testng.TestCalculatorTwo@275710fc]" started-at="2022-10-07T20:17:52 WIB" name="setUp" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSubstract()[pri:0, instance:com.juaracoding.testng.TestCalculatorTwo@275710fc]" started-at="2022-10-07T20:17:52 WIB" name="testSubstract" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubstract -->
+        <test-method signature="testAdd()[pri:0, instance:com.juaracoding.testng.TestCalculatorTwo@275710fc]" started-at="2022-10-07T20:17:52 WIB" name="testAdd" finished-at="2022-10-07T20:17:52 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+      </class> <!-- com.juaracoding.testng.TestCalculatorTwo -->
+    </test> <!-- D:/SQA/Java/1/JCTestNG/src/test/java/com/juaracoding/testng/TestCalculatorTwo.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
